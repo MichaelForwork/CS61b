@@ -1,10 +1,11 @@
-package Test;
-
 import org.junit.Test;
 import static org.junit.Assert.*;
 
 public class TestJigsaw {
 
+	/**
+	 * this unit is finished.
+	 */
 	@Test
 	public void testJigsaw(){
 		String actual = Jigsaw.jigsaw();
