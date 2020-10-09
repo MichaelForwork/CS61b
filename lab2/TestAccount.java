@@ -11,7 +11,6 @@
 import org.junit.Test;
 import static org.junit.Assert.*;
 
-
 public class TestAccount {
 	// this is the first time to use TDD style to write code.
 
