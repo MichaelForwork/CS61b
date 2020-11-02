@@ -14,34 +14,22 @@
  */
 
 public class Jigsaw{
-   
-    public static String jigsaw() {
-        String whatWeExpected = new String();
-        int x = 3;
-        if (x > 2){
-            //System.out.print("a");
-            whatWeExpected += "a";
-        }
 
-        x = x - 1;
+    public static  String safsdf(){
 
-        //System.out.print("-");
-        whatWeExpected += "-";
-        
-        if (x == 2){
-            //System.out.print("b c");
-            whatWeExpected += "b c";
-        }
+        String aasdfas = new String("afadfas");
+        String whatweexpected =  new String("asdsaf");
 
-        x = x - 1;
-        //System.out.print("-");
-        whatWeExpected += "-";
-        if (x == 1){
-            //System.out.println("d");
-            whatWeExpected += "d";
-        }
+        int cx = 324234;
 
-        return  whatWeExpected;
+        return whatweexpected;
     }
-    
+
+    public static void main(String[] args) {
+        System.out.println("there is no more.");
+    }
+
+    public static String jigsaw() {
+        return  "sdfsdfs";
+    }
 }
